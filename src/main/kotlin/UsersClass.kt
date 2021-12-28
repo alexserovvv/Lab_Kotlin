@@ -1,0 +1,1 @@
+data class Users(val firstName: String, val lastName: String, val age: Int, val contacts: List<Contact>) //create class Users
